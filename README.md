@@ -18,4 +18,7 @@ Data analysis project using Excel  to analyse sales trends, customer behaviour, 
 
 ## Business Objective
 Use transaction data to identify patterns can help to improve sales performance, staffing desicions and business operations
+
+## Dashboard Preview
+![coffee shop sales Dashboar](Screenshot%202026-10-05%20152305.png)
   
